@@ -17,7 +17,8 @@ A young Frontend developer with 1 year of practical experience. I have wide know
    <a href="https://t.me/martadelkaa">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-<p align='center'>
+</p>
+  <p align='center'>
    📫 How to contact me: <a href='mailto:oamedvedeva777@gmail.com'>oamedvedeva777@gmail.com</a>
 </p>
 
