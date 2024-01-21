@@ -22,6 +22,17 @@ A young Frontend developer with 1 year of practical experience. I have wide know
    📫 How to contact me: <a href='mailto:oamedvedeva777@gmail.com'>oamedvedeva777@gmail.com</a>
 </p>
 
+## ⚙️ Tech skills
+*   HTML5
+*   CSS3
+*   JavaScript
+*   React Hooks & Components
+*   REST API
+
+### My opensource projects
+
+*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
+*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
 
 <!--
 **martadelka/martadelka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
