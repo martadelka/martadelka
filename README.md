@@ -10,6 +10,18 @@ A young Frontend developer with 1 year of practical experience. I have wide know
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=martadelka&layout=compact"/></a>
 </p>
 
+<p align='center'>
+   <a href="/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://t.me/martadelkaa">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to contact me: <a href='mailto:oamedvedeva777@gmail.com'>oamedvedeva777@gmail.com</a>
+</p>
+
+
 <!--
 **martadelka/martadelka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
