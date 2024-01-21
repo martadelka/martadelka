@@ -31,8 +31,9 @@ A young Frontend developer with 1 year of practical experience. I have wide know
 
 ### My opensource projects
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
+*   [Phonebook](https://github.com/martadelka/goit-react-hw-08-phonebook) - App for adding, saving and deleting of contacts on your personal account.
+*   [Image finder](https://github.com/martadelka/goit-react-hw-04-images) - App for searching images.
+*   [Movies](https://github.com/martadelka/goit-react-hw-05-movies) - App for searching movies with their posters and general information.
 
 <!--
 **martadelka/martadelka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
