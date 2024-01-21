@@ -1,6 +1,6 @@
 ### Hi, I'm Olesia 👋
 
-A young Frontend developer with 1 year of practical experience. I have wide knoweledge in frontend development using HTML and CSS. I am also proficient in backend development on JavaScript and React. Worked on several group projects building websites and created some individual ones which include apps.
+A young Frontend developer with 1 year of practical experience. I have wide knoweledge in frontend development using HTML, CSS, JavaScript and React. Worked on several group projects building websites and created some individual ones which include apps.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=martadelka&show_icons=true&count_private=true"><img
