@@ -11,7 +11,7 @@ A young Frontend developer with 1 year of practical experience. I have wide know
 </p>
 
 <p align='center'>
-   <a href="/">
+   <a href="https://www.linkedin.com/in/%D0%BE%D0%BB%D0%B5%D1%81%D1%8F-%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2%D0%B0-590940294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/martadelkaa">
